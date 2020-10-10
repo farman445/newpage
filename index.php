@@ -1,1 +1,1 @@
-<?php include(./paragraph.html) ?>
+<?php include("./paragraph.html"); ?>
